@@ -1,9 +1,6 @@
 import os
-
-import vlc
 import openai
 from gtts import gTTS
-import time
 import playsound
 
 # Set up OpenAI API credentials
